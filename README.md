@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TenzinJhopee
 - 👀 I’m interested in A.I and robotic, blockchain
-- 🌱 I’m currently learning C++20, Rust, Nerual network - Pytorch, Next JS, AWS
+- 🌱 I’m currently learning C++20, Rust, Nerual network - Pytorch, Tensorflow, Next JS, AWS
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me jhopetenzin@gmail.com
 
